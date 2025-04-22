@@ -24,7 +24,7 @@ class Program
             else if (tentativa > numeroSecreto) // Verifica se a tentativa foi maior que o número secreto
                 Console.WriteLine("Muito alto!"); // Informa ao jogador que a tentativa foi alta
             else // Caso a tentativa seja igual ao número secreto
-                Console.WriteLine($"🎉 Parabéns! Você acertou em {tentativas} tentativas."); // Informa ao jogador que acertou
+                Console.WriteLine($" Parabéns! Você acertou em {tentativas} tentativas."); // Informa ao jogador que acertou
         }
         while (tentativa != numeroSecreto); // Enquanto a tentativa for diferente do número secreto
     }
