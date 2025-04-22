@@ -1,0 +1,14 @@
+C:\Users\MOISÉS\JogoAdvinhação\bin\Debug\net8.0\JogoAdvinhação.exe
+C:\Users\MOISÉS\JogoAdvinhação\bin\Debug\net8.0\JogoAdvinhação.deps.json
+C:\Users\MOISÉS\JogoAdvinhação\bin\Debug\net8.0\JogoAdvinhação.runtimeconfig.json
+C:\Users\MOISÉS\JogoAdvinhação\bin\Debug\net8.0\JogoAdvinhação.dll
+C:\Users\MOISÉS\JogoAdvinhação\bin\Debug\net8.0\JogoAdvinhação.pdb
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\JogoAdvinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\JogoAdvinhação.AssemblyInfoInputs.cache
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\JogoAdvinhação.AssemblyInfo.cs
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\JogoAdvinhação.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\JogoAdvinhação.dll
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\refint\JogoAdvinhação.dll
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\JogoAdvinhação.pdb
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\JogoAdvinhação.genruntimeconfig.cache
+C:\Users\MOISÉS\JogoAdvinhação\obj\Debug\net8.0\ref\JogoAdvinhação.dll
